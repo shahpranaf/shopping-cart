@@ -11,7 +11,7 @@ A TypeScript-based shopping cart calculator that applies different pricing strat
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/shahpranaf/shopping-cart.git
 cd shopping-cart
 ```
 
